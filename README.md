@@ -62,7 +62,7 @@ bower install
 Find next some of the standards and best practices to work and collaborate on this project.  
 
 * [[Wiki Topic]](http://project/wiki/topic-url)
-* [[Wiki Topic]](http://project/wiki/topic-url)
+* [[Wiki Topic]]
 * [[Wiki Topic]](http://project/wiki/topic-url)
 * [[Wiki Topic]](http://project/wiki/topic-url)
 * [[Wiki Topic]](http://project/wiki/topic-url)
